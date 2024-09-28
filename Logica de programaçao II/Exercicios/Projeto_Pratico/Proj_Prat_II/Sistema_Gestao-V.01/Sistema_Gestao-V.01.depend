@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1615310805 source:c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cliente.h"
+	"Cliente.c"
+	"FormataText.c"
+	"ValidCPF.c"
+
+1615303045 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\cliente.h
+
+1615310805 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\cliente.c
+	"cliente.h"
+	"RemoveEnter.c"
+	"NotNullOrEmpty.c"
+	"ValidTelefone.c"
+	<string.h>
+
+1614968840 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\formatatext.c
+	<string.h>
+	<ctype.h>
+
+1615069164 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\validcpf.c
+	"cliente.h"
+	<string.h>
+
+1614891601 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\funcoes.h
+
+1615251661 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\removeenter.c
+	"Funcoes.h"
+
+1615255109 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\validtelefone.c
+	"cliente.h"
+	<string.h>
+
+1615255522 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\exercicios\projeto_pratico\proj_prat_ii\sistema_gestao-v.01\notnullorempty.c
+	"Funcoes.h"
+

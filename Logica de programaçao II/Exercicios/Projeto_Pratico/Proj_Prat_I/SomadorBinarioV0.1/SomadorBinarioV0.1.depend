@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1613871294 source:c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"functions.h"
+	"ConvertBinDec.c"
+	"ToComplemDeDois.c"
+	"ComparaBit.c"
+	"SomaBin.c"
+	"SubtBin.c"
+
+1613769340 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\functions.h
+
+1613869965 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\convertbindec.c
+	"functions.h"
+	<math.h>
+
+1613868973 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\tocomplemdedois.c
+	"functions.h"
+
+1613223231 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\comparabit.c
+	"functions.h"
+
+1613769324 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\somabin.c
+	"functions.h"
+
+1613868682 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\somadorbinariov0.1\subtbin.c
+	"functions.h"
+

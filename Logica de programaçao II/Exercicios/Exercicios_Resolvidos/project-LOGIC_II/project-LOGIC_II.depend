@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1611415304 source:c:\users\lidia\onedrive\Área de trabalho\tec-inf\logica de programação i\logica de programaçao ii\project-logic_ii\main.c
+	<stdio.h>
+	<locale.h>
+	"funcao.h"
+
+1611412818 c:\users\lidia\onedrive\Área de trabalho\tec-inf\logica de programação i\logica de programaçao ii\project-logic_ii\funcao.h
+
+1612017762 source:c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\project-logic_ii\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	"funcao.h"
+
+1612017474 c:\users\lidia\onedrive\Área de trabalho\tec-inf\2-semestre\logica de programaçao ii\project-logic_ii\funcao.h
+
