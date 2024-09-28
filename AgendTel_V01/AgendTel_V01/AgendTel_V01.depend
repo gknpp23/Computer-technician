@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1517159677 source:/home/gabriel/Documentos/AgendTel_V01/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions_Pessoa.h"
+	"IncludePessoa.c"
+
+1517158814 source:/home/gabriel/Documentos/AgendTel_V01/Functions_Pessoa.h
+
+1517157477 source:/home/gabriel/Documentos/AgendTel_V01/FormataText.c
+	<string.h>
+	<ctype.h>
+	"Functions_Pessoa.h"
+
+1517158814 /home/gabriel/Documentos/AgendTel_V01/Functions_Pessoa.h
+
+1517159801 /home/gabriel/Documentos/AgendTel_V01/IncludePessoa.c
+	<stdio.h>
+	<stdlib.h>
+	"Functions_Pessoa.h"
+

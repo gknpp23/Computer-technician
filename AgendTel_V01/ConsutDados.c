@@ -1,0 +1,11 @@
+/*
+consultar uma pessoa a partir do prefixo do nome
+retronando todos osseus email e telefones
+
+mostrar todas as pessoas e seus dados que possuam o mesmo telefone
+
+mostrar todos os email de uma pessoa
+
+
+
+*/
